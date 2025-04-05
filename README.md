@@ -1,40 +1,53 @@
-# 👋 Hello There! I'm Hamza
+# 👋 Hey There! I'm Hamza Mir  
 
-🎓 Computer Science Student | 4th Semester  
-💻 Aspiring Software Engineer with a passion for building efficient and impactful solutions.
+## 💻 Computer Science Student | Developer in Progress  
 
-Welcome to my GitHub profile! I'm a motivated student currently exploring the world of software development. I enjoy solving logical problems, writing clean code, and constantly improving my skills through hands-on projects and collaborations.
+Welcome to my GitHub profile! I'm Hamza, a passionate student currently diving deep into the world of Data Structures and Algorithms. I enjoy learning new technologies, writing clean code, and building cool stuff with what I learn.  
 
----
-
-## 🚀 Currently Exploring
-- Data Structures & Algorithms  
-- Building Projects to Strengthen Core Programming Concepts
-
-## 🛠️ Technologies & Tools I Work With
-- **Languages:** Python, C++
-- **Tools:** Git, GitHub, VS Code, Terminal
+- 🔍 **Currently Exploring**: Data Structures & Algorithms (DSA)  
+- 🛠️ **Tech I Use**: Python, C++, Git  
+- 🌱 **Always Learning**: Best practices, problem-solving, and how to write efficient code  
 
 ---
 
-## 📈 GitHub Stats
+## 🧰 Technologies & Tools  
 
-<!-- You can enable these stats by using GitHub Readme Stats -->
-![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🏆 What I'm Proud Of
-- **Learning & Growing:** Continuously building my understanding of core CS concepts.
-- **Project Development:** Working on projects to apply my programming knowledge.
-- **Collaboration:** Open to learning from others and contributing to collaborative coding efforts.
+## 📊 GitHub Stats  
+
+![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzaMir-dev&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🤝 Let's Connect!
-I'm always open to learning, collaborating, and discussing new ideas. Feel free to explore my repositories or reach out!
+## 🚀 Goals & Aspirations  
+
+- ✔️ Master core Data Structures & Algorithms  
+- ✔️ Build real-world projects using Python and C++  
+- ✔️ Contribute to open-source projects  
+- ✔️ Grow as a software developer one commit at a time  
 
 ---
 
-Made with ❤️ by **Hamza**
+Thanks for stopping by! Feel free to check out my repositories, follow my journey, or connect for collaborations.  
+
+---
+
+Made with ☕ and code by **Hamza Mir** 🚀
